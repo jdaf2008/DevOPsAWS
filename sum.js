@@ -1,5 +1,5 @@
 'use script'
-x = 1
+x = 2
 y = 2
 m = x + y
 console.log('El resultado es: ' + m);
