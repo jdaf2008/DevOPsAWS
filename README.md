@@ -6,7 +6,7 @@ Implementación de Entrega continua CD con: GitHub, AWS, Jenkins
 
 ### Aplicación FrontEnd
 
-El desarrollo de la aplicación consta de un script en Javascript _sum.js_
+El desarrollo de la aplicación consta de un script en Javascript `sum.js` que se encarga de sumar dos digitos y mostrarlos en consola
 
 ### PileLine
 
