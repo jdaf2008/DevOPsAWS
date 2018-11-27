@@ -17,3 +17,9 @@ El cual incluye como prerequisitos o configuraciónes en el proceso especificada
 * [Instalación de Jenkins](https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins)
 
 * [Configuración de CodePipe](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-four-stage-pipeline.html)
+
+### Ejecución
+
+* Cambios en el repositorio
+
+ ![Métrica de puerto 20000](./graph1.png) 
